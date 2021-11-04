@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Yvon Mutuyeyezu👋, highly passionate about software engineering 
 ## Connect with me 🚀
 
 <div align="center">
