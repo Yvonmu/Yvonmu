@@ -1,4 +1,4 @@
-### Hi there, I'm Yvon Mutuyeyezu👋, highly passionate about software engineering 
+### Hi there, I'm Yvon Mutuyeyezu👋, highly passionate about software engineering and Penetration Testing
 ## Connect with me 🚀
 
 <div align="center">
